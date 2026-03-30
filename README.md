@@ -52,7 +52,7 @@ These files contain secrets like database URL and JWT key.
 
 ```env
 MONGODB_URL=mongodb+srv://<username>:<password>@<cluster-url>/myDatabase?retryWrites=true&w=majority
-JWT=secretctk78
+JWT=secret78 #optional write anything you want 
 PORT=8080
 ```
 
