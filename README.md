@@ -17,7 +17,7 @@ A full-stack MERN application (MongoDB, Express, React, Node.js) for fitness tra
 
 ---
 
-## 1. Local Setup
+## 1. **Local Setup**
 
 ### Step 1: Clone Repository
 ```bash
@@ -82,6 +82,7 @@ mongodb+srv://username:password@cluster0.mongodb.net/myDatabase?retryWrites=true
 ```
 
 7. Paste it in your **backend `.env`** file under `MONGODB_URL`.
+**Important : **Now Run npm start in both frontend and backend folders to run the app after following the above instructions you successfully setup the DB and connect to backend
 
 ---
 
