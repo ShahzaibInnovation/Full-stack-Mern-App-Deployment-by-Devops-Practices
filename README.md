@@ -171,7 +171,7 @@ http://<your-server-ip>:3000
 ### Step 1: Login to Docker Hub
 
 ```bash
-docker login
+docker login -u <username>
 ```
 
 * Enter your Docker Hub username and password.
